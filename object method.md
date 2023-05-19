@@ -1,0 +1,1 @@
+A function that is a property of an object is called its _method_.
