@@ -1,0 +1,1 @@
+Instead of creating space on the outside of your box, like `margin` does, the `padding` property creates space on the **inside** of your box instead: like insulation.

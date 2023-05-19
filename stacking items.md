@@ -1,0 +1,2 @@
+  
+Using ==line-based== positioning you can place items into the same cell of the grid. This means that you can stack items, or cause one item to partly overlap another. Items which come later in the source will be displayed on top of items that come earlier. You can change this stacking order using `z-index` just as with positioned items.
